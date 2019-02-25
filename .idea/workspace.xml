@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4da2d6c0-3054-481e-8348-fa774815ac08" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home2.html" beforeDir="false" afterPath="$PROJECT_DIR$/home2.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="64" column="135" selection-start-line="64" selection-start-column="135" selection-end-line="64" selection-end-column="135" />
+            <state relative-caret-position="170">
+              <caret line="73" column="40" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -53,6 +52,11 @@
               <item name="IS219-Portfolio-p1" type="b2602c69:ProjectViewProjectNode" />
               <item name="IS219-Portfolio-p1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="IS219-Portfolio-p1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IS219-Portfolio-p1" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -86,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551110979082</updated>
-      <workItem from="1551110980392" duration="957000" />
+      <workItem from="1551110980392" duration="1592000" />
     </task>
     <task id="LOCAL-00001" summary="test logo">
       <created>1551111484436</created>
@@ -102,15 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1551111631894</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="TASK: update General Infor like address, dob,">
+      <created>1551112182898</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551112182898</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="957000" />
+    <option name="totallyTimeSpent" value="1592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="33" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
@@ -139,7 +149,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test logo" />
     <MESSAGE value="TASK: update logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="TASK: update logo" />
+    <MESSAGE value="TASK: update General Infor like address, dob," />
+    <option name="LAST_COMMIT_MESSAGE" value="TASK: update General Infor like address, dob," />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/home6.html">
@@ -149,8 +160,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="64" column="135" selection-start-line="64" selection-start-column="135" selection-end-line="64" selection-end-column="135" />
+        <state relative-caret-position="170">
+          <caret line="73" column="40" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
         </state>
       </provider>
     </entry>
