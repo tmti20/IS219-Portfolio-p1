@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4da2d6c0-3054-481e-8348-fa774815ac08" name="Default Changelist" comment="TASK: edit description">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4da2d6c0-3054-481e-8348-fa774815ac08" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="95" column="65" selection-start-line="95" selection-start-column="65" selection-end-line="95" selection-end-column="65" />
+            <state relative-caret-position="306">
+              <caret line="225" column="60" selection-start-line="225" selection-start-column="60" selection-end-line="225" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -92,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551110979082</updated>
-      <workItem from="1551110980392" duration="7722000" />
+      <workItem from="1551110980392" duration="7964000" />
     </task>
     <task id="LOCAL-00001" summary="test logo">
       <created>1551111484436</created>
@@ -171,11 +170,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551119265283</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="TASK: github link">
+      <created>1551120054389</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1551120054389</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7722000" />
+    <option name="totallyTimeSpent" value="7964000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="33" width="1550" height="838" extended-state="6" />
@@ -217,7 +223,8 @@
     <MESSAGE value="TASK: resume download link" />
     <MESSAGE value="TASK: favicon" />
     <MESSAGE value="TASK: edit description" />
-    <option name="LAST_COMMIT_MESSAGE" value="TASK: edit description" />
+    <MESSAGE value="TASK: github link" />
+    <option name="LAST_COMMIT_MESSAGE" value="TASK: github link" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/home6.html">
@@ -234,8 +241,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="95" column="65" selection-start-line="95" selection-start-column="65" selection-end-line="95" selection-end-column="65" />
+        <state relative-caret-position="306">
+          <caret line="225" column="60" selection-start-line="225" selection-start-column="60" selection-end-line="225" selection-end-column="60" />
         </state>
       </provider>
     </entry>
