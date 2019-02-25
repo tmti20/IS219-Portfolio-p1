@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4da2d6c0-3054-481e-8348-fa774815ac08" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/home2.html" beforeDir="false" afterPath="$PROJECT_DIR$/home2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/5.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/6.PNG" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="225" column="117" selection-start-line="225" selection-start-column="117" selection-end-line="225" selection-end-column="117" />
+            <state relative-caret-position="116">
+              <caret line="269" column="81" selection-start-line="269" selection-start-column="81" selection-end-line="269" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -90,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551110979082</updated>
-      <workItem from="1551110980392" duration="4578000" />
+      <workItem from="1551110980392" duration="4888000" />
     </task>
     <task id="LOCAL-00001" summary="test logo">
       <created>1551111484436</created>
@@ -152,7 +154,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4578000" />
+    <option name="totallyTimeSpent" value="4888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="33" width="1550" height="838" extended-state="6" />
@@ -201,8 +203,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="225" column="117" selection-start-line="225" selection-start-column="117" selection-end-line="225" selection-end-column="117" />
+        <state relative-caret-position="116">
+          <caret line="269" column="81" selection-start-line="269" selection-start-column="81" selection-end-line="269" selection-end-column="81" />
         </state>
       </provider>
     </entry>
